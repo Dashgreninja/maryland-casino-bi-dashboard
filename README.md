@@ -7,6 +7,9 @@ Maryland casino revenue reports are published monthly as unstructured PDF docume
 
 **Workflow:** PDF Extraction → Structured Dataset → MySQL BI Model → Tableau Dashboard
 
+Dashboard Preview
+dashboard screenshot/Final_Dashboard.png
+
 ---
 
 ## Business Problem
